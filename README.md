@@ -1,9 +1,8 @@
 # HELLO WORLD
-Code for T-Shirt 
+# Code for T-Shirt 
 
 #include<bits/stdc++.h>
-int main()
+void main()
 {
  cout<<"Hello World";
- return 0;
 }
