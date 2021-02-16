@@ -2,6 +2,7 @@
 # Code for T-Shirt
 # Print numbers
 
+Sample code in C++
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -16,3 +17,5 @@ void main()
  display();
  cout<<"Hello World";
 }
+
+Request for sample code in Java
